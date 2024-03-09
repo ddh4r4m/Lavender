@@ -5,7 +5,7 @@ widgetStyle=Lightly
 ColorScheme=LavenderLightly
 
 [kdeglobals][Icons]
-Theme=Breeze Chameleon Dark
+Theme=breeze-dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
@@ -23,15 +23,6 @@ ButtonsOnLeft=MNS
 ButtonsOnRight=IAX
 library=org.kde.lightly
 theme=Lightly
-
-[kwinrc][WindowSwitcher]
-LayoutName=big_icons
-
-[kwinrc][DesktopSwitcher]
-LayoutName=big_icons
-
-[TabBox]
-LayoutName=big_icons
 
 [Windows]
 Placement=Centered
@@ -54,4 +45,4 @@ BlurStrength=8
 NoiseStrength=2
 
 [Wallpaper]
-Image=ArchBlueLiquid
+Image=violetLavender
