@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rkstrdee@gmail.com",
+                "Name": "Dharam Dhurandhar"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Lavender Round",
+        "Description": "A dark purples Global Theme for Plasma with transparency and rounded edges",
+        "Id": "Lavender-round",
+        "Version": "3.0",
+        "License": "GPL-2.0+",
+        "Website": "https://github.com/rkstrdee/Iridescent"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1628985",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1628987",
+        "kns://icons.knsrc/api.kde-look.org/1281798",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541309",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541305",
+        "kns://wallpaper.knsrc/api.kde-look.org/1562665",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541302",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541308",
+        "kns://wallpaper.knsrc/api.kde-look.org/2136245",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1214121"
+
+    ]
+}
